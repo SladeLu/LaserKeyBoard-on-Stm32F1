@@ -1,0 +1,135 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\rui\Desktop\迭代阈值法二值化\迭代阈值法二值化\Project\RVMDK(uv5)\Template.uvproj
+Project File Date:  03/26/2016
+
+<h2>Output:</h2>
+Rebuild target 'Template'
+assembling startup_stm32f40_41xxx.s...
+compiling system_stm32f4xx.c...
+compiling misc.c...
+compiling stm32f4xx_dac.c...
+compiling stm32f4xx_dma.c...
+compiling stm32f4xx_exti.c...
+compiling stm32f4xx_fsmc.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_i2c.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_rtc.c...
+compiling stm32f4xx_sdio.c...
+compiling stm32f4xx_spi.c...
+compiling stm32f4xx_syscfg.c...
+compiling stm32f4xx_tim.c...
+compiling stm32f4xx_usart.c...
+compiling main.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling stm32f4xx_it.c...
+compiling main_init.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling led.c...
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+compiling delay.c...
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.c(54): warning:  #1-D: last line of file ends without a newline
+compiling lcd.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling ascii.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling usart.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling flash_spi.c...
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+compiling touch.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling touch_spi.c...
+compiling ov7725.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling sccb.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+compiling ov7725_proc.c...
+..\..\User\struct.h(47): warning:  #1-D: last line of file ends without a newline
+..\..\User\main_init.h(13): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LED\led.h(18): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\DELAY\delay.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\LCD\lcd.h(47): warning:  #1295-D: Deprecated declaration LCDILI9325_Init - give arg types
+..\..\Periph\LCD\lcd.h(65): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\ASCII\ascii.h(6): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\USART\usart.h(11): warning:  #1-D: last line of file ends without a newline
+..\..\Periph\FLASH\flash_spi.h(61): warning:  #1-D: last line of file ends without a newline
+..\..\User\main.h(23): error:  #5: cannot open source input file "key.h": No such file or directory
+".\Template.axf" - 9 Errors, 84 Warning(s).
+Target not created
